@@ -10,4 +10,4 @@
 
 **Deliverables**
    - [Report](thesis.pdf)
-   - [Quick Summary](presentation.pptx)
+   - [Quick Summary](presentation.pdf)
