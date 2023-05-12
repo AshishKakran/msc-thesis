@@ -8,4 +8,5 @@
 * excess returns can either be calculated comparing to market index such as VTI or buy-n-hold strategy on same stock/portfolio.
 
 [Report](thesis.pdf)
+
 [Quick Summary](presentation.pdf)
