@@ -1,6 +1,6 @@
 # Master's thesis
 
-**Title**: Resist the temptation to trade: Lo "Buy-n-Hold" the power of investing
+**Title**: Resist the temptation to trade: Lo "Buy-n-Hold" the power of passive investing
 
 **Research objective**: Do machine learning algorithm based trading stragies really generate profits? or is it all statistical fluke?
 
